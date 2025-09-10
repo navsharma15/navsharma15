@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nav Sharma</h1>
-<h3 align="center">A passionate UI/UX Designer And Frontend Developer from India</h3>
+<h3 align="center">A passionate UI/UX Designer And Frontend Developer Using ReactJS from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navsharma15&label=Profile%20views&color=0e75b6&style=flat" alt="navsharma15" /> </p>
 
