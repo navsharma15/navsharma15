@@ -1,81 +1,95 @@
-<!-- -------------------- HEADER -------------------- -->
+<!-- Banner -->
+<h1 align="center">👋 Hey, I'm <span style="color:#4C8BE6;">Nav Sharma</span></h1>
 
-<h1 align="center">👋 Hey, I'm <span style="color:#4db6ff;">Nav Sharma</span></h1>
-
+<!-- Typing Animation -->
 <p align="center">
-  <strong>UI/UX Designer • Frontend Developer • ReactJS Enthusiast 🚀</strong>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=4C8BE6&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer;Frontend+Developer+%E2%9A%99%EF%B8%8F;ReactJS+Developer;Learning+Backend+%26+AI%2FML;Tech+Enthusiast+from+India+🇮🇳" />
 </p>
 
+<!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=navsharma15&label=Profile%20Views&color=4db6ff&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=navsharma15&label=Profile+Views&style=for-the-badge&color=0e75b6" />
 </p>
+
 
 ---
 
-<!-- -------------------- ABOUT -------------------- -->
+### 🧑‍💻 About Me  
+> *"I enjoy blending creativity with logic — crafting UI that not only looks good but feels intuitive."*
+
+✨ Currently Working On: **LOOPI Music AI Website**  
+📚 Learning: **Backend Development & AI/ML 🤖**  
+🤝 Looking To Collaborate On: **Cloud Native & Frontend Projects**  
+💬 Ask Me About: **UI/UX | ReactJS | Frontend | Java | Python**  
+📩 Reach Me At: **navdhruv12@gmail.com**  
+⚡ Fun Fact: *I get excited when UI and animations sync smoothly.*  
+
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/navsharma" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+<a href="https://instagram.com/sh_nav_" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
+<a href="https://leetcode.com/navsharma" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" width="45"/></a>
+</p>
+
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,mysql,git,figma,linux,php,c" />
+</p>
+
+
+---
+
+### 🧊 Glassmorphic Trophy
+
+<div align="center" style="backdrop-filter: blur(10px); padding:20px; border-radius:20px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=navsharma15&theme=onestar&margin-w=15&no-bg=true" />
+</div>
+
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
 
-🎯 Working on: <a href="https://navsharma15.github.io/LOOPI/" target="_blank"><strong>LOOPI</strong></a>  
-📚 Learning: <strong>Backend Development & AI/ML</strong>  
-🤝 Collaboration: <strong>Cloud Native & AI-driven UI/UX projects</strong>  
-💬 Ask me about: <strong>UI/UX • React • JavaScript • Java • Python</strong>  
-📩 Email: <strong>navdhruv12@gmail.com</strong>  
+<img src="https://github-readme-stats.vercel.app/api?username=navsharma15&show_icons=true&theme=react&hide_border=true&bg_color=00000000" height="165"/>
 
-<br>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=navsharma15&theme=react&hide_border=true&dates=FFFFFF&background=00000000" height="165"/>
 
-> ⚡ **I love mixing creativity with logic — especially in UI development.** 🎨💻
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navsharma15&layout=compact&theme=react&hide_border=true&bg_color=00000000" height="165"/>
 
 </div>
 
----
-
-<!-- -------------------- SOCIALS -------------------- -->
-
-<h3 align="center">🌐 Connect With Me</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/navsharma" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-  <a href="https://instagram.com/sh_nav_" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
-  <a href="https://leetcode.com/navsharma" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" height="45"/></a>
-</p>
 
 ---
 
-<!-- -------------------- SKILLS -------------------- -->
+### 🎯 Quote for Developers
 
-<h3 align="center">🧠 Skills & Tools</h3>
+> **"Design is intelligence made visible." – Alina Wheeler**  
+
+
+---
+
+### ⚙️ Animated Fun Badge
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,php,mysql,git,figma,linux" height="50"/>
+<img src="https://img.shields.io/badge/🎨_Design-Makes_Me_Happy!-blueviolet?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
----
-
-<!-- -------------------- STATS -------------------- -->
-
-<h3 align="center">📊 GitHub Analytics</h3>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=navsharma15&theme=tokyonight&hide_border=true" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=navsharma15&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navsharma15&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
 
 ---
 
-<!-- -------------------- ANIMATIONS -------------------- -->
+#### 🚀 Thanks for visiting!
 
-<style>
-@keyframes fadeIn { from{opacity:0} to{opacity:1}}
-@keyframes fadeInUp { from{opacity:0; transform: translateY(20px);} to{opacity:1; transform: translateY(0);} }
-@keyframes glow { from{filter:blur(1px);} to{filter:blur(3px);} }
-@keyframes zoomIn { from{transform:scale(0.95); opacity:0;} to{transform:scale(1); opacity:1;} }
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-h1, p, img, div {
-  animation: fadeInUp 1.2s ease forwards;
-}
-</style>
