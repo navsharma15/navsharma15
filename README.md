@@ -32,5 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navsharma15&show_icons=true&locale=en" alt="navsharma15" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navsharma15&" alt="navsharma15" /></p>
-make it more profotional and add animations in this make it bluryyy
-Update readme profile for git hub like a profotional 
+
