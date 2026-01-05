@@ -1,35 +1,161 @@
-<h1 align="center">Hi 👋, I'm Nav Sharma</h1>
-<h3 align="center">A passionate UI/UX Designer And Frontend Developer Using ReactJS from India</h3>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navsharma15&label=Profile%20views&color=0e75b6&style=flat" alt="navsharma15" /> </p>
+        <div class="about-content">
+            <h2>🚀 What I'm Up To</h2>
+            <ul class="about-list">
+                <li>🔭 Building <strong>LOOPI</strong> - A modern web experience</li>
+                <li>🌱 Learning <strong>Backend Development & AI/ML</strong></li>
+                <li>👯 Open to collaborate on <strong>Cloud Native Projects</strong></li>
+                <li>💬 Ask me about <strong>UI/UX, React, Java, Python</strong></li>
+                <li>⚡ Fun fact: I enjoy blending creativity with logic!</li>
+            </ul>
+        </div>
+    </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navsharma15" alt="navsharma15" /></a> </p>
+    <!-- Skills Section -->
+    <div class="skills-section">
+        <h2>🛠️ Tech Stack</h2>
+        <div class="skills-grid">
+            <div class="skill-card">
+                <h3>Frontend & Design</h3>
+                <div class="skill-icons">
+                    <div class="skill-icon" title="HTML5">🌐</div>
+                    <div class="skill-icon" title="CSS3">🎨</div>
+                    <div class="skill-icon" title="JavaScript">⚡</div>
+                    <div class="skill-icon" title="React">⚛️</div>
+                    <div class="skill-icon" title="Figma">🎭</div>
+                </div>
+            </div>
 
-- 🔭 I’m currently working on [LOOPI](https://navsharma15.github.io/LOOPI/)
+            <div class="skill-card">
+                <h3>Backend & Databases</h3>
+                <div class="skill-icons">
+                    <div class="skill-icon" title="Node.js">🟢</div>
+                    <div class="skill-icon" title="PHP">🐘</div>
+                    <div class="skill-icon" title="MySQL">🗄️</div>
+                </div>
+            </div>
 
-- 🌱 I’m currently learning **Backend And AIML**
+            <div class="skill-card">
+                <h3>Programming Languages</h3>
+                <div class="skill-icons">
+                    <div class="skill-icon" title="Java">☕</div>
+                    <div class="skill-icon" title="Python">🐍</div>
+                    <div class="skill-icon" title="C">©️</div>
+                </div>
+            </div>
 
-- 👯 I’m looking to collaborate on **Cloud Native projects**
+            <div class="skill-card">
+                <h3>Tools & Platforms</h3>
+                <div class="skill-icons">
+                    <div class="skill-icon" title="Git">📦</div>
+                    <div class="skill-icon" title="Linux">🐧</div>
+                    <div class="skill-icon" title="GitHub">🐙</div>
+                </div>
+            </div>
+        </div>
+    </div>
 
-- 💬 Ask me about **UI/UX | Frontend | Java | Python**
+    <!-- Stats Section -->
+    <div class="stats-section">
+        <h2>📊 GitHub Analytics</h2>
+        <div class="stats-grid">
+            <div class="stat-card">
+                <h3>50+</h3>
+                <p>Projects Completed</p>
+            </div>
+            <div class="stat-card">
+                <h3>1000+</h3>
+                <p>Commits This Year</p>
+            </div>
+            <div class="stat-card">
+                <h3>5+</h3>
+                <p>Languages Mastered</p>
+            </div>
+        </div>
+    </div>
 
-- 📫 How to reach me **navdhruv12@gmail.com**
+    <!-- Contact Section -->
+    <div class="contact-section">
+        <h2>🎯 Let's Connect & Collaborate!</h2>
+        <p>
+            I'm always excited to connect with fellow developers and designers.<br>
+            Whether you want to discuss a project, share ideas, or just say hi,<br>
+            feel free to reach out!
+        </p>
+        <div class="social-links">
+            <a href="https://linkedin.com/in/nav-sharma" target="_blank" class="social-btn">
+                Let's Connect on LinkedIn
+            </a>
+            <a href="mailto:navdhruv12@gmail.com" class="social-btn">
+                Email Me
+            </a>
+        </div>
+    </div>
 
-- ⚡ Fun fact **I enjoy blending creativity with logic, especially in front-end design and UI development.**
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2026 Nav Sharma. Crafted with 💜 and code.</p>
+        <p style="margin-top: 10px; opacity: 0.7;">
+            "Code is like humor. When you have to explain it, it's bad." – Cory House
+        </p>
+    </footer>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nav sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nav sharma" height="30" width="40" /></a>
-<a href="https://instagram.com/sh_nav_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sh_nav_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nav sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nav sharma" height="30" width="40" /></a>
-</p>
+<script>
+    // Typing Animation
+    const texts = [
+        "UI/UX Designer",
+        "Frontend Developer",
+        "ReactJS Specialist",
+        "Problem Solver",
+        "Creative Thinker"
+    ];
+    
+    let textIndex = 0;
+    let charIndex = 0;
+    let isDeleting = false;
+    const typingElement = document.getElementById('typingText');
+    
+    function type() {
+        const currentText = texts[textIndex];
+        
+        if (isDeleting) {
+            typingElement.textContent = currentText.substring(0, charIndex - 1);
+            charIndex--;
+        } else {
+            typingElement.textContent = currentText.substring(0, charIndex + 1);
+            charIndex++;
+        }
+        
+        if (!isDeleting && charIndex === currentText.length) {
+            setTimeout(() => isDeleting = true, 2000);
+        } else if (isDeleting && charIndex === 0) {
+            isDeleting = false;
+            textIndex = (textIndex + 1) % texts.length;
+        }
+        
+        const speed = isDeleting ? 50 : 100;
+        setTimeout(type, speed);
+    }
+    
+    type();
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+    // Smooth scroll animation for cards
+    const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                entry.target.style.opacity = '1';
+                entry.target.style.transform = 'translateY(0)';
+            }
+        });
+    });
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navsharma15&show_icons=true&locale=en&layout=compact" alt="navsharma15" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navsharma15&show_icons=true&locale=en" alt="navsharma15" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navsharma15&" alt="navsharma15" /></p>
+    document.querySelectorAll('.skill-card, .stat-card').forEach(card => {
+        card.style.opacity = '0';
+        card.style.transform = 'translateY(30px)';
+        card.style.transition = 'all 0.6s ease';
+        observer.observe(card);
+    });
+</script>
 
