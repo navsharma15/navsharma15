@@ -119,12 +119,6 @@ const NavSharma = {
 ## 📌 Motto
 > **"Without data, you're just another person with an opinion."**
 </div>
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=navsharma15&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navsharma15&layout=compact&theme=tokyonight&hide_border=true)
  
 <div align="center">
 
