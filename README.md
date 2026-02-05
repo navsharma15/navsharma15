@@ -124,13 +124,13 @@ const NavSharma = {
 
 ### **🌟 If you find my data projects useful, consider starring the repositories! 🌟**
 
+**I turn data and technology into solutions that help businesses grow.**
+
 </div>
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=344966&fontSize=0&fontAlignY=41&fontColor=E6EFE9&descAlignY=59&descAlign=50&section=footer"/>
-
-**I turn data and technology into solutions that help businesses grow.**
 
 </div>
 
