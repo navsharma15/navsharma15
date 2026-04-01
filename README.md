@@ -52,7 +52,8 @@ const NavSharma = {
 - 🔭 **Currently Working On:** Data analysis projects, dashboards & real-world datasets  
 - 🌱 **Learning:** Advanced SQL, Statistics, Business Analytics & Data Storytelling  
 - 💬 **Ask Me About:** SQL, Python (Pandas), Power BI, Data Cleaning, EDA  
-- 📫 **Reach Me:** [navsharma989@gmail.com](mailto:navsharma989@gmail.com)  
+- 📫 **Reach Me:** [navsharma989@gmail.com](mailto:navsharma989@gmail.com)
+- 🌐 **Portfolio:** [Visit My Portfolio](https://navsharma15.github.io/Portfolio/)
 - ⚡ **Fun Fact:** I trust data more than assumptions 📊
 -   
 
