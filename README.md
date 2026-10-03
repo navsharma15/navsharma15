@@ -36,7 +36,7 @@ const NavSharma = {
         debugging: "10%",
         sleep: "NaN" // one more bug to fix 😴
     }
-};
+}; 
 ```
 
 ```
