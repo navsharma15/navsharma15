@@ -9,30 +9,35 @@
 
 # 💫 About Me:
 ```typescript
+```javascript
 const NavSharma = {
     location: "India 🇮🇳",
-    role: "Data Analyst",
+    role: "Software Developer",
     education: "Computer Science",
 
     currentFocus: [
-        "Data Analysis","SQL","Python","Power BI","Statistics"
+        "Java", "Data Structures & Algorithms",
+        "Object-Oriented Programming",
+        "Problem Solving", "Web Development"
     ],
 
     tools: {
-        databases: ["MySQL", "PostgreSQL"],
-        languages: ["Python", "SQL"],
-        visualization: ["Power BI", "Tableau"],
-        analysis: ["Pandas", "NumPy", "Excel"]
+        languages: ["Java", "JavaScript", "SQL"],
+        frontend: ["HTML", "CSS", "React.js"],
+        backend: ["Node.js", "Express.js"],
+        databases: ["MySQL", "MongoDB"],
+        concepts: ["OOP", "REST APIs", "DBMS", "Git & GitHub"]
     },
 
     lifeBalance: {
-        dataCleaning: "40%",
-        analysis: "30%",
+        coding: "40%",
+        problemSolving: "25%",
         learning: "20%",
-        coffee: "10%",
-        sleep: "NaN" // still under analysis 📊
+        debugging: "10%",
+        sleep: "NaN" // one more bug to fix 😴
     }
 };
+```
 
 ```
 
